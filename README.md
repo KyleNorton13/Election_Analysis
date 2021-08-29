@@ -17,5 +17,6 @@ The results of the election show that:
 
 - Diana Degette won the election with 272,892 votes which accounted for 73.8% of the total votes.
 
-##Election-Audit Summary
+## Election-Audit Summary
+The script used in the analysis can be used in a variety of situations. For example the script can be used to show the county with the least amount of votes. In the if statement  if (votes > winning_votes) and (vote_percentage > winning_percentage):, the > can be changed to < to show the least votes within the election. Also if (votes > winning_count) and (vote_percentage > winning_percentage):, can be changed in the same manner to displa the candidate with the least votes in the text file. 
 
